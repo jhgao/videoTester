@@ -2,6 +2,7 @@
 #define VIDEOTESTERWINDOW_H
 
 #include <QMainWindow>
+#include <Phonon/MediaObject>
 #include "gui/droplineedit.h"
 
 namespace Ui {
